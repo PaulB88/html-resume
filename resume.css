@@ -1,0 +1,127 @@
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+	margin-bottom:35px;
+	margin-top: 25px;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+
+#header{
+	position: relative;
+background-color:#668284;
+height:115px;
+width: 100%;
+margin-top:-20px;
+z-index: 1;
+margin-bottom: 2px;
+border-radius: 5px;
+
+}
+#footer{
+	position: relative;
+	height: 120px;
+	width:100%;
+	border-radius: 5px;
+	background-color:green;
+	text-align: center;
+
+}
+
+h4{
+	color:black
+	font-weight:bold;
+	text-indent:right ;
+	text-align: center;
+	padding-top:20px;
+
+}
+body{ 
+ color:black;}
+  .left{
+  	position:float;
+  	float:left;
+  	margin-top:50px;
+  	width: 7%;
+  	height:800px;
+  	margin-bottom: 10px;
+  	background-color: red}
+
+  	.text-center{
+  		text-align: center;
+  		outline-color: green;
+  	}
+  	
+  	
+
+
+	
+
+	ul*{
+		text-decoration:none;
+		font-family:cursive;
+		text-align: center;
+		border:1px black dashed;}
+body > h4 {
+	font-weight:bold
+	border:2px solid red;
+	padding-top: 20
+}
+.fancy{ 
+	font-style:bold;
+	text-align: center; }
+
+	#lending { text-align: center;
+
+	}
+	a:hover{
+		color:#CC0000;
+		font-weight:bold;
+		text-decoration:none;
+	}
+	*body{
+		background-color:#blue}
+		#sept11{
+			text-indent: center;
+			
+		}
+.right{
+	text-align: center;}
